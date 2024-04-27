@@ -1,1 +1,2 @@
-
+The Official Website of MIET Dogri Cultura Club. 
+Status: Underdevelopment...
